@@ -5,7 +5,14 @@ A list of resources for our society members who have upcoming interviews! This r
 ## Introduction
 Data science interviews aren't easy. Companies are often looking for people with a large array of skills from programming (namely Python and SQL) to statistics and mathematics. The Data Science Society is committed to helping you achieve that dream job in this amazing and rapidly growing field. Our committee members have been through this interview process many times and so we decided to collect all our resources together in one place.
 
-## 1. Python
+This repo is broken down into 4 main sections:
+- Programming
+- Mathematics & Statistics
+- Machine Learning
+- General Interview Guidlines
+
+## 1. Programming
+### 1.1 Python
 Arguably the most important skill of a modern day data scientist is the ability to code. In line with our [**Lecture Series**](https://github.com/Imperial-College-Data-Science-Society/Lecture-1-Intro-to-Python) in Python, here are some revision resources:
 
  - [Python Crash Course Cheatsheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
@@ -15,7 +22,7 @@ Arguably the most important skill of a modern day data scientist is the ability 
 - [Leetcode](https://leetcode.com/)
 	- Try some problem questions (recommended to start with Easy level problems)
 
-## 2. Scientific Python w/ Pandas
+### 1.2 Scientific Python w/ Pandas
 We're looking to find cool insights in our data but this is only possible if we know how to data wrangle properly using Pandas, the Python library:
 
 - [Pandas Revision](https://dshahid380.github.io/Data-analysis-with-pandas/)
