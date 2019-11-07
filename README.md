@@ -57,3 +57,8 @@ This section contains resources for functional probability and statistics revisi
 The most anticipated section in this whole document. Covering Supervised, Unsupervised and Reinforcement Learning resources. **This section is the *differentiator* in many interviews between candidates who are *just aware of the models* and those who *understand under the hood* what is happening.**
 
 ### 3.1 General Resources
+Links to the libraries we are most concerned with in this machine learning section. Majority of these resources will be using one or more of these libraries in their revision.
+- [scikit-learn Introduction Tutorial](https://scikit-learn.org/stable/tutorial/basic/tutorial.html)
+	- The bread and butter of machine learning
+- [Tensorflow](https://www.tensorflow.org/learn) / [PyTorch](https://pytorch.org/tutorials/beginner/nlp/pytorch_tutorial.html)
+	- Biggest divide since pineapple on pizza
