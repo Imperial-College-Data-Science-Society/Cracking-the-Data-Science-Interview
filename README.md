@@ -6,8 +6,8 @@ A list of resources for our society members who have upcoming interviews! This r
 Data science interviews aren't easy. Companies are often looking for people with a large array of skills from programming (namely Python and SQL) to statistics and mathematics. The Data Science Society is committed to helping you achieve that dream job in this amazing and rapidly growing field. Our committee members have been through this interview process many times and so we decided to collect all our resources together in one place.
 
 This repo is broken down into 4 main sections:
-- Programming
-- Mathematics & Statistics
+- [Programming](#programming)
+- [Mathematics & Statistics](#mathematics-and-statistics)
 - Machine Learning
 - General Interview Guidlines
 
@@ -31,3 +31,15 @@ We're looking to find cool insights in our data but this is only possible if we 
 	- Learning via videos instead of reading notebooks
 - [Pandas Questions & Exercises](https://github.com/guipsamora/pandas_exercises#getting-and-knowing)
 	- List of (very) short projects/questions to test your Pandas knowledge
+
+### 1.3 SQL
+Often in industry, data is not stored in fancy looking `.csv` files, but instead in databases such as MySQL, PostgreSQL etc. - Some companies may require you to know how to extract the data you need from these systems using SQL (a language for databases).
+
+- [Mode Tutorial](https://mode.com/sql-tutorial/introduction-to-sql/)
+	- Excellent step by step guide to the different functions and operators available in SQL
+
+**Limited resources are provided on this topic as it is often only asked in interview if it is written on your CV.**
+
+
+## 2. Mathematics and Statistics
+This section contains resources for functional mathematics and statistics revision. Here you **WON'T** find rigorous proofs or derivations, but rather more useful stuff for industry.
