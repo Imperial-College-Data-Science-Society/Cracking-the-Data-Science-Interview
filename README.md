@@ -3,7 +3,7 @@ A list of resources for our society members who have upcoming interviews! This r
 
 
 ## Introduction
-Data science interviews aren't easy. Companies are often looking for people with a large array of skills from programming (namely Python and SQL) to statistics and mathematics. The Data Science Society is committed to helping you achieve that dream job in this amazing and rapidly growing field. Our committee members have been through this interview process many times and so we decided to collect all our resources together in one place.
+Data science interviews aren't easy. Companies are often looking for people with a large array of skills from programming (namely Python and SQL) to machine learning to statistics/probability. The Data Science Society is committed to helping you achieve that dream job in this amazing and rapidly growing field. Our committee members have been through this interview process many times and so we decided to collect all our resources together in one place.
 
 This repo is broken down into 4 main sections:
 - [Programming](#1-programming)
