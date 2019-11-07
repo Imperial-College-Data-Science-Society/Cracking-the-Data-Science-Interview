@@ -6,9 +6,9 @@ A list of resources for our society members who have upcoming interviews! This r
 Data science interviews aren't easy. Companies are often looking for people with a large array of skills from programming (namely Python and SQL) to statistics and mathematics. The Data Science Society is committed to helping you achieve that dream job in this amazing and rapidly growing field. Our committee members have been through this interview process many times and so we decided to collect all our resources together in one place.
 
 This repo is broken down into 4 main sections:
-- [Programming](#programming)
-- [Probability & Statistics](#probability-and-statistics)
-- Machine Learning
+- [Programming](#1-programming)
+- [Probability & Statistics](#2-probability-and-statistics)
+- [Machine Learning](#3-machine-learning)
 - General Interview Guidlines
 
 <br/><br/>
@@ -16,7 +16,7 @@ This repo is broken down into 4 main sections:
 ### 1.1 Python
 Arguably the most important skill of a modern day data scientist is the ability to code. In line with our [**Lecture Series**](https://github.com/Imperial-College-Data-Science-Society/Lecture-1-Intro-to-Python) in Python, here are some revision resources:
 
-- [Python Crash Course Cheatsheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
+ - [Python Crash Course Cheatsheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
 	 - Basic Python knowledge condensed down into downloadable documents
 - [LearnXinYMinutes - Python3](https://learnxinyminutes.com/docs/python3/)
 	- One page Python knowledge from variables to classes and wrapper functions
@@ -45,3 +45,15 @@ Often in industry, data is not stored in fancy looking `.csv` files, but instead
 ## 2. Probability and Statistics
 This section contains resources for functional probability and statistics revision. Here you **WON'T** find rigorous proofs or derivations, but rather more useful stuff for industry.
 
+- [Basics of Probability for Data Science](https://www.analyticsvidhya.com/blog/2017/02/basic-probability-data-science-with-examples/)
+	- Random Variables, Distributions and Z-Scores
+- [Massive Probability Cheatsheet - William Chen](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
+	- A **HUGE** cheatsheet for probability, probably best to skim through this one
+- [DS Medium Series - Incl. Bayesian Statistics](https://medium.com/@rathi.ankit/probability-statistics-for-data-science-series-83b94353ca48)
+	- Mini-series of blog posts about probability and statistics in data science. A very useful article on [Bayesian Statistics](https://towardsdatascience.com/bayesian-statistics-for-data-science-45397ec79c94) included.
+
+<br/><br/>
+## 3. Machine Learning
+The most anticipated section in this whole document. Covering Supervised, Unsupervised and Reinforcement Learning resources. **This section is the *differentiator* in many interviews between candidates who are *just aware of the models* and those who *understand under the hood* what is happening.**
+
+### 3.1 General Resources
