@@ -9,7 +9,7 @@ This repo is broken down into 4 main sections:
 - [Programming](#1-programming)
 - [Probability & Statistics](#2-probability-and-statistics)
 - [Machine Learning](#3-machine-learning)
-- General Interview Guidlines
+- General Interview Guidelines
 
 <br/><br/>
 ## 1. Programming
@@ -62,3 +62,5 @@ Links to the libraries we are most concerned with in this machine learning secti
 	- The bread and butter of machine learning
 - [Tensorflow](https://www.tensorflow.org/learn) / [PyTorch](https://pytorch.org/tutorials/beginner/nlp/pytorch_tutorial.html)
 	- Biggest divide since pineapple on pizza
+
+### 3.2 Supervised Learning
