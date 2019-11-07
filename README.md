@@ -7,15 +7,16 @@ Data science interviews aren't easy. Companies are often looking for people with
 
 This repo is broken down into 4 main sections:
 - [Programming](#programming)
-- [Mathematics & Statistics](#mathematics-and-statistics)
+- [Probability & Statistics](#probability-and-statistics)
 - Machine Learning
 - General Interview Guidlines
 
+<br/><br/>
 ## 1. Programming
 ### 1.1 Python
 Arguably the most important skill of a modern day data scientist is the ability to code. In line with our [**Lecture Series**](https://github.com/Imperial-College-Data-Science-Society/Lecture-1-Intro-to-Python) in Python, here are some revision resources:
 
- - [Python Crash Course Cheatsheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
+- [Python Crash Course Cheatsheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
 	 - Basic Python knowledge condensed down into downloadable documents
 - [LearnXinYMinutes - Python3](https://learnxinyminutes.com/docs/python3/)
 	- One page Python knowledge from variables to classes and wrapper functions
@@ -40,6 +41,7 @@ Often in industry, data is not stored in fancy looking `.csv` files, but instead
 
 **Limited resources are provided on this topic as it is often only asked in interview if it is written on your CV.**
 
+<br/><br/>
+## 2. Probability and Statistics
+This section contains resources for functional probability and statistics revision. Here you **WON'T** find rigorous proofs or derivations, but rather more useful stuff for industry.
 
-## 2. Mathematics and Statistics
-This section contains resources for functional mathematics and statistics revision. Here you **WON'T** find rigorous proofs or derivations, but rather more useful stuff for industry.
