@@ -54,7 +54,7 @@ This section contains resources for functional probability and statistics revisi
 
 <br/><br/>
 ## 3. Machine Learning
-The most anticipated section in this whole document. Covering Supervised, Unsupervised and Reinforcement Learning resources. **This section is the *differentiator* in many interviews between candidates who are *just aware of the models* and those who *understand under the hood* what is happening.**
+Covering Supervised and Unsupervised Learning resources. **This section is the *differentiator* in many interviews between candidates who are *just aware of the models* and those who *understand under the hood* what is happening.**
 
 ### 3.1 General Resources
 Links to the libraries we are most concerned with in this machine learning section. Majority of these resources will be using one or more of these libraries in their revision.
@@ -63,4 +63,17 @@ Links to the libraries we are most concerned with in this machine learning secti
 - [Tensorflow](https://www.tensorflow.org/learn) / [PyTorch](https://pytorch.org/tutorials/beginner/nlp/pytorch_tutorial.html)
 	- Biggest divide since pineapple on pizza
 
-### 3.2 Supervised Learning
+### 3.2 Top Rated Resources
+- [**COMPLETE ML RESOURCE**](https://github.com/machinelearningmindset/machine-learning-course#machine-learning)
+	- The "documents" linked in this resource are great for all round machine learning knowledge, from Regression and Regularisation to CNNs and RNNs. Highly recommended.
+- [41 Questions if you know your stuff](https://www.springboard.com/blog/machine-learning-interview-questions/)
+	- If you're confident with everything you've seen so far, try out some questions
+- [**One (massive) Page Resource**](https://createmomo.github.io/2018/01/23/Super-Machine-Learning-Revision-Notes/)
+	- Pretty good resource in general, more mathematical than the previous resource but great to scroll through if you have some time.
+- [Data School 15 hours of videos](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+	- Prefer to learn by watching? (Just like panopto...) check some of these videos out
+
+### 3.3 Honourable Mentions
+- [Boosting vs Bagging - What's the difference?](https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/)
+- [Bias vs Variance - Tradeoff war](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
+- [Dimensionality Reduction - Extracting the important stuff from your features](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/)
