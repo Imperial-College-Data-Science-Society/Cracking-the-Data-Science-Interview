@@ -9,7 +9,7 @@ This repo is broken down into 4 main sections:
 - [Programming](#1-programming)
 - [Probability & Statistics](#2-probability-and-statistics)
 - [Machine Learning](#3-machine-learning)
-- General Interview Guidelines
+- [General Interview Guidelines](#4-interview-guidelines)
 
 <br/><br/>
 ## 1. Programming
@@ -77,3 +77,28 @@ Links to the libraries we are most concerned with in this machine learning secti
 - [Boosting vs Bagging - What's the difference?](https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/)
 - [Bias vs Variance - Tradeoff war](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
 - [Dimensionality Reduction - Extracting the important stuff from your features](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/)
+
+<br/><br/>
+## 4. Interview Guidelines
+Congratulations! You've made it this far in the resources and hopefully you have some great machine learning knowledge. Unfortunately, that isn't always enough...
+
+Companies are looking for great communicators and people they actually want to work with. Here's some general interview tips:
+
+ 1. **Dress for the part**
+	 - What to wear on the day? Message the recruiter and ask specifically. Nothing worse than turning up casual to an office full of ties.
+2. **Not sure about an answer?**
+	- We've all been there where we don't know the answer or had a complete mind blank. The best thing to do is **speak through your thought process**, don't sit there in silence expecting them to read your mind. Remember, they are looking for people they can also teach, not just the baseline knowledge for the job.
+3. **Smile :)**
+	- You'll feel relaxed, the interviewer will feel relaxed, everyone will be relaxed. Happy days (literally).
+4. **Interviews are two way**
+	- We've all been told before "interviews are two way, both parties want to see if they're a good fit for each other". This could not be more true. **Curious about parts of the company/job? Ask the question."** It shows you have a genuine interest for the company/role and is warmly welcomed.
+5. **Preparation is key**
+	- Confidence in interviews comes from the fact that you know you are prepared. Have you put in the hours to learning and understanding everything you speak about? If so, nothing to worry about. You will feel confident and hopefully will convey that to the person interviewing.
+6. **Do not let failure hold you back**
+	- Not everyone has perfect interviews. You may have a rough day, or a set of tough interviews/questions. **Push them out of your mind**. Interviewing for jobs is a marathon not a sprint, there will be other opportunities available if you put yourself out there.
+
+<br/><br/>
+-
+**We wish you all the best in your future careers. Good Luck!**
+
+ICDSS
